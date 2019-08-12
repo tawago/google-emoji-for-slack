@@ -1,18 +1,8 @@
-# Google Noto Color Emoji (old ones) 
+# Google Noto Emoji blobs (deprecated) 
 Hello, all of the images in this repository belong to google's Noto Font Projects. ![kiss_blob](kiss_google.png)
-
----
-
 [https://www.google.com/get/noto/](https://www.google.com/get/noto/)
 
-These cute emojis are known as "Blob" are no longer used in the Noto fonts (since Android O, I heard)
+These cute emojis are known as "Blob". They are not used in the Noto fonts anymore but the world is still obsessed with it. This repo is just a set of blobs images that I've salvaged from the fonts. 
 
-
-![sad](sad_google.png) ![no](no_google.png)
-
----
-
-However, the demand of these Blobs are still huge for not only Android users but also everyone else on the internet. Thanks to the skyrocketing growth of slack, now everyone can use this cute cute cuuuute emojis to have better/smoother/funnier/lovelier communicationn.
-I resized some of them to fit in 128 x 128 px requirement. Some of them were duplicated and some of them just did not get picked by me so in case someone wants have more of them, they are in the "extra" folders.
-
-Enjoy!
+## Blob Community
+The blob obsession has grown so much. A huge fanbase community and even new blob images are avaiable to you on [discord](https://discord.gg/4PVhPkD). Or the whole collection of emojis are on [Blob emoji](https://blobs.gg/)
