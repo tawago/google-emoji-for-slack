@@ -1,5 +1,5 @@
 # Google Noto Emoji blobs (deprecated) 
-Hello, all of the images in this repository belong to google's Noto Font Projects. ![kiss_blob](kiss_google.png)
+Hello, all of the images in this repository belong to google's Noto Font Projects. ![my-choice/kiss_blob](kiss_google.png)
 [https://www.google.com/get/noto/](https://www.google.com/get/noto/)
 
 These cute emojis are known as "Blob". They are not used in the Noto fonts anymore but the world is still obsessed with it. This repo is just a set of blobs images that I've salvaged from the fonts. 
